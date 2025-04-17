@@ -22,6 +22,10 @@ A React application that enhances images using AI technology.
    ```
    npm install
    ```
+3. Install axios:
+    ```
+    npm i axios --save
+    ```
 3. Create a `.env` file in the root directory with the following variables:
    ```
    VITE_MY_API_KEY = "your_api_key"
