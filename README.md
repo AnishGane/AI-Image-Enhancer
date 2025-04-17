@@ -67,24 +67,9 @@ The application uses an external AI service for image enhancement. The API commu
 - The API has a maximum retry limit of 20 attempts when polling for results
 - Large images may take longer to process
 
-
-## Screenshots
-
-### Main Interface
-![Main Interface](MainUI.png)
-*The main application interface showing the upload area and image preview panels*
-
-### Image Processing
-![Image Processing](https://i.imgur.com/example2.jpg)
-*The application during the image enhancement process with loading indicator*
-
-### Enhanced Result
-![Enhanced Result](https://i.imgur.com/example3.jpg)
-*Side-by-side comparison of original and enhanced images*
-
 ## Links
 
-- [Demo Site](https://ai-image-enhancer-demo.example.com)
+- [Demo Site](https://ai-image-enhancer-1oli.onrender.com/)
 - [API Documentation](https://picwish.com/photo-enhancer-api-doc#)
 
 ## Author
